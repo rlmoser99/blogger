@@ -7,5 +7,6 @@ Blogger::Application.routes.draw do
   end
   
   resources :tags
+  resources :attachments
 
 end
